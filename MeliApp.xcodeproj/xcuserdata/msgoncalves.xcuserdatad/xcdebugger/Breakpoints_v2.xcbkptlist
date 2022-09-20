@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7573A6B7-A469-4E99-8294-1BB70FD35E13"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5196C1F5-0AF7-46B2-85CA-B9C8DCCAD3F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/FavoritesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "FavoritesViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "581514D6-7577-46F5-8001-545284E173AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Service/MultiGetManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "MultiGet2Manager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "581514D6-7577-46F5-8001-545284E173AA - 9ec3d48fd41f938b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeliApp.MultiGet2Manager.__allocating_init() -&gt; MeliApp.MultiGet2Manager"
+                  moduleName = "MeliApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Alkemy/MeliApp/MeliApp/Service/MultiGetManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "581514D6-7577-46F5-8001-545284E173AA - 352f0d56b95d0c8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeliApp.MultiGet2Manager.() -&gt; MeliApp.MultiGet2Manager.init() -&gt; MeliApp.MultiGet2Manager"
+                  moduleName = "MeliApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Alkemy/MeliApp/MeliApp/Service/MultiGetManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6997E1D-46D8-4FE2-BA2E-DD31C0873D7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Service/MultiGetManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getDetailsProducts(params:completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21C6FC51-2F92-487D-BC38-9F36E843C592"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Service/MultiGetManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getDetailsProducts(params:completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21C6FC51-2F92-487D-BC38-9F36E843C592 - 5faa7b3edc752ca2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeliApp.MultiGet2Manager.getDetailsProducts(params: Swift.String, completed: (Swift.Result&lt;Swift.Array&lt;Swift.Array&lt;MeliApp.MultiGet&gt;&gt;, MeliApp.MLError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MeliApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Alkemy/MeliApp/MeliApp/Service/MultiGetManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "912">
+               </Location>
+               <Location
+                  uuid = "21C6FC51-2F92-487D-BC38-9F36E843C592 - 5faa7b3edc752ca2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeliApp.MultiGet2Manager.getDetailsProducts(params: Swift.String, completed: (Swift.Result&lt;Swift.Array&lt;Swift.Array&lt;MeliApp.MultiGet&gt;&gt;, MeliApp.MLError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MeliApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Alkemy/MeliApp/MeliApp/Service/MultiGetManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "980">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AFA8C91-12C6-41E6-B3C2-3819CD83DE7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Service/MultiGetManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getDetailsProducts(params:completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22F4CB58-8B21-42DC-B967-3150DBC6CE58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Service/MultiGetManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getDetailsProducts(params:completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "22F4CB58-8B21-42DC-B967-3150DBC6CE58 - c00e6ebd012a168b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MeliApp.MultiGet2Manager.getDetailsProducts(params: Swift.String, completed: (Swift.Result&lt;Swift.Array&lt;Swift.Array&lt;MeliApp.MultiGet&gt;&gt;, MeliApp.MLError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MeliApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Alkemy/MeliApp/MeliApp/Service/MultiGetManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "22F4CB58-8B21-42DC-B967-3150DBC6CE58 - c00e6ebd012a168b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MeliApp.MultiGet2Manager.getDetailsProducts(params: Swift.String, completed: (Swift.Result&lt;Swift.Array&lt;Swift.Array&lt;MeliApp.MultiGet&gt;&gt;, MeliApp.MLError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MeliApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/msgoncalves/Desktop/Alkemy/MeliApp/MeliApp/Service/MultiGetManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "972">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D3FBF0F-7370-4E1C-A6BF-734642E2AE89"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Service/MultiGetManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getDetailsProducts(params:completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C87DC247-96EB-482E-B50A-B9A9A04D0433"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Service/MultiGetManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getDetailsProducts(params:completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D4B436B-E91C-4869-B838-799DFCB242EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Service/MultiGetManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getDetailsProducts(params:completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1553A87C-B8A0-4549-AC65-8D3FAFBA0BC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Home/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "getDetailsProducts(productsList:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EE48EBD-3234-4AA8-A963-9D1AE9BE6C78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Home/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "getDetailsProducts(productsList:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12C91684-AB05-40D4-A238-456CDC2EE1F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeliApp/Search/SearchTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "setCell(title:subtitle:price:myImageLink:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
